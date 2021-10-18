@@ -45,7 +45,7 @@ It also provides a Facade interface for easy logging Messages, Exceptions and Ti
 Require this package with composer. It is recommended to only require the package for development.
 
 ```shell
-composer require barryvdh/laravel-debugbar --dev
+composer require Sa-M/laravel-debugbar --dev
 ```
 
 Laravel uses Package Auto-Discovery, so doesn't require you to manually add the ServiceProvider.
